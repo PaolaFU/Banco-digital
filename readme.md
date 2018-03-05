@@ -4,7 +4,7 @@ El banco actualmente se encuentra por un proceso de transformación digital. Com
 
 ## Objetivo
 
-Enfocados en los millennials (research que se hizo en el reto anterio) [Más información](https://drive.google.com/drive/u/0/folders/1LhpwvYvWbBKHB5H4FrhHwIl3lJ4R8IYY) proponemos una plataforma enfocada en la omnicanalidad. Que nuestros usuarios tengan total libertad al realizar sus transacciones y con la misma seguridad que tienen al acercarse a ventanilla.
+Enfocados en los millennials (research que se hizo en el reto anterior [Más información](https://drive.google.com/drive/u/0/folders/1LhpwvYvWbBKHB5H4FrhHwIl3lJ4R8IYY)) proponemos una plataforma enfocada en la omnicanalidad. Que nuestros usuarios tengan total libertad al realizar sus transacciones con la misma seguridad que tienen al acercarse a ventanilla.
 
 ## Proceso
 
