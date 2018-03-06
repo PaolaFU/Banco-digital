@@ -75,14 +75,54 @@ SCOTIABANK
 
 . ¿Cuáles son las quejas más recurrentes en la agencia?
 
+-Falta de rapidez (pese a que están operativos las recontadoras de billetes y monedas),
+
+-Falta de ventanillas (se tiene 5 módulos y sólo atienden 3 por el staff establecido)
+
+-Falta de personal en horarios de refrigerio / alta afluencia (lastimosamente los horarios de refrigerio coinciden con las de las instituciones cuyos trabajadores vienen a cobrar al banco o a sacar / reponer sus tarjetas)
+
+-Falta de Agentes cercanos a la Agencia (para derivar y desahogar las colas)
+
+-Falta de conocimiento por parte del personal de los productos y servicios, así como de los canales electrónicos (internet, ATMs, etc)
+
+-Falta de amabilidad, cortesía, (Bienvenida, Sonrisa, Dilculpa, lentitud del sistema)
+
+-Falta de bancas de atención con módulo de servimatic (TV, ticket de espera)
+
+-Falta de priorización de colas (segmentación de clientes A,B, C, BEx, Premiun, etc)
+
+-Falta de una persona que atienda en el hall y derive las operaciones a los canales electrónicos, internet, ATMs, etc
+
+
+
 . ¿Que transacciones crees que podrían migrarse a una aplicación móvil y dejar de atenderse en ventanilla?
+
+Considerar los parámetros que establece la SBS para lavado de activos
+
+-Depósitos a ATMs en soles y dólares
+
+-Solicitud / Reclamos de estados de cuenta vigentes e históricos a través de las plataformas virtuales,
+
+-Emisión de chequeras se realizan en ventanilla
+
+-Solicitud / autorización de ampliación de montos de las transacciones en internet deben de realizarse personalmente,
+
+-Actualización de datos,
 
 En qué crees que podrían mejorar los servicios o la atención que  brinda el banco? 
 
+-En cada Agencia, tener un back up tanto de PC como de recontadoras, para que cuando se malogre alguna no se vea afectada la atención
+
+-Establecer un plan de contingencia de atención en caso se caiga la línea / sistemas (lo tiene el BCP) y no se afecte la atención al público,
+
 La aplicación móvil que tiene el banco es óptima, explicanos (si/no)¿porqué?
 
+-SI, por la rapidez y no pide clave token para transacciones recurrentes y propias, pero el consumo de la memoria de la app es demasiada
 
-La edad promedio que usa la aplicación móvil 
+
+La edad promedio que usa la aplicación móvil
+
+- Los personas jovenes menores de 35 años, que son los que paran pegados al celular.
 
 
 
