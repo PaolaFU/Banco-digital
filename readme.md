@@ -58,12 +58,15 @@ Quejas hay muchas, pero las que saltan a simple vista así no seas cliente asidu
 Los pagos de tributos y detracciones, a mi parecer eso  lo podrían debitar automáticamente de sus tarjetas no es necesario hacer una cola de casi una hora para hacer ese pago 
 
 En qué crees que podrían mejorar los servicios o la atención que  brinda el banco? 
+
 A veces es estresante el trabajo en ventanilla, y atender a tantas personas en 5 horas  es abrumante mejoraría mantener  motivando al trabajador y clases de coaching para q brinde una mejor atención
 
 La aplicación móvil que tiene el banco es óptima, explicanos (si/no)¿porqué?
+
 Si es óptima pero debe de enseñar a los cliente a utilizarlos porque no es intuitiva
 
 La edad promedio que usa la aplicación móvil 
+
 Mas son jóvenes porque ellos quieren todo rápido y simplificado, son los más renegones al tener que esperar  en una cola de banco.
 
 
