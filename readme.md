@@ -2,6 +2,8 @@
 
 El banco actualmente se encuentra por un proceso de transformación digital. Como parte de este proceso, han implementado el área de innovación para liderar la migración de las principales transacciones financieras.
 
+![image](https://user-images.githubusercontent.com/32310691/37179774-c8346da8-22f4-11e8-982c-f4b3321a4723.png)
+
 ## Objetivo
 
 Enfocados en los millennials (research que se hizo en el reto anterior [Más información](https://drive.google.com/drive/u/0/folders/1LhpwvYvWbBKHB5H4FrhHwIl3lJ4R8IYY)) proponemos una plataforma enfocada en la omnicanalidad. Que nuestros usuarios tengan total libertad al realizar sus transacciones con la misma seguridad que tienen al acercarse a ventanilla.
