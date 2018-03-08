@@ -2,7 +2,7 @@
 
 El banco actualmente se encuentra por un proceso de transformación digital. Como parte de este proceso, han implementado el área de innovación para liderar la migración de las principales transacciones financieras.
 
-![image](https://user-images.githubusercontent.com/32310691/37179774-c8346da8-22f4-11e8-982c-f4b3321a4723.png)
+![image](https://user-images.githubusercontent.com/32310691/37179903-49856ed4-22f5-11e8-93e5-2b170669b14d.png)
 
 ## Objetivo
 
