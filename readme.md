@@ -2,15 +2,17 @@
 
 El banco del país actualmente se encuentra por un proceso de transformación digital. Como parte de este proceso, han implementado el área de innovación para liderar la migración de las principales transacciones financieras, a una plataforma digital.
 
-## OBJETIVO
+## Idea de Negocio
 
 Enfocados en los millennials proponemos una aplicación móvil enfocada en la omnicanalidad. Que nuestros usuarios tengan total libertad al realizar sus operaciones de manera rápida y sencilla con la misma seguridad que tienen al acercarse a una  ventanilla.
+
 
 ![image](https://user-images.githubusercontent.com/32310691/37179903-49856ed4-22f5-11e8-93e5-2b170669b14d.png)
 
 
 
-## RESEARCH 
+
+## Research
 
 ### Banco digital para millenials
  
@@ -38,7 +40,7 @@ El 40% de los millennials nunca ha pisado una sucursal bancaria y que la mayorí
  
 Es por eso por lo que la principal vía de comunicación entre estas instituciones y sus clientes son las páginas web y las aplicaciones que han desarrollado los bancos para smartphones, donde una buena o mala aplicación móvil puede sellar la imagen de la empresa frente a sus clientes más jóvenes. 
  
-### Objetivo del Banco del País
+## Objetivo del Banco del País
  
 * Los Millennials puedan acceder a cualquier servicio del banco a través del Internet desde el computador o cualquier aparato móvil.
 Banco 100% digital.
@@ -47,7 +49,7 @@ Banco 100% digital.
 
 * Uso ilimitado de agentes y ATM’s.
  
-### STAKEHOLDERS
+## STAKEHOLDERS
 
 Stakeholders interno: stakeholder que forma parte directa de la organización.
  
@@ -64,13 +66,13 @@ Stakeholders externo: stakeholder que no forman parte directa de la organizació
  
 * Millennials
  
-### REUNIÓN KICK OFF
+## REUNIÓN KICK OFF
  
 El objetivo de esta primera reunión es conocer a los principales stakeholders y saber quiénes son los que tomarán las decisiones en el transcurso del proyecto. Es importante alinear los esfuerzos y trabajar de manera conjunta así como planificar la medición y el progreso de cada área.
 
 ![](assets/img/preguntas.jpg)
 
-### BUSINESS MODEL CANVAS
+## BUSINESS MODEL CANVAS
 
 ![](assets/img/canvas.jpg)
 
@@ -215,6 +217,34 @@ Entrevista realizada  a 3 personas que laboran en  diferentes bancos del Perú.
 **Afinnity Map**
 
 ![](assets/img/affinity-map.jpg)
+
+### User persona
+
+![](assets/img/user-persona.png)
+
+## Problem Statements
+
+* **David necesita**  poder pagar los recibos de los diferentes servicios que tiene de manera rápida para no perder tiempo haciendo largas colas.
+
+* **David necesita** hacer transferencia  de su cuenta bancaria a otras sin tener que pagar altas comisiones.
+
+* **David necesita** poder pagar sus servicios públicos  con las diferentes tarjetas bancarias que tiene.
+
+* **David necesita** disponer de  una aplicación móvil que tenga la  opción de tener diferentes tarjetas bancarias  para realizar todo tipo de pagos.
+
+* **David necesita** revisar sus operaciones bancarias por el celular, para mantenerse informado en tiempo real.
+
+### Customer Journey Map - PROCESOS CRÍTICOS
+
+* Transferencia
+* Trámites largos
+* Cobros excesivos
+* Largas colas
+* Tiempo de espera
+
+## Ideación
+
+### Prototipo en papel
 
 
 
