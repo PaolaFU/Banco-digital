@@ -246,6 +246,16 @@ Entrevista realizada  a 3 personas que laboran en  diferentes bancos del Perú.
 
 ### Prototipo en papel
 
+ * Primer flujo de transferencia bancaria 
+ 
+![](assets/img/prototipopapel.jpeg)
+![](assets/img/prototipopapel2.jpeg)
+
+* Segundo flujo de pago de servicios-agua
+
+![](assets/prototipopapelflujo2.jpg)
+
+
 
 
 
