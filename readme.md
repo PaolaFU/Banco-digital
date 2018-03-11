@@ -1,14 +1,73 @@
 # Banco del País - Un banco 100% digital
 
-El banco actualmente se encuentra por un proceso de transformación digital. Como parte de este proceso, han implementado el área de innovación para liderar la migración de las principales transacciones financieras.
+El banco del país actualmente se encuentra por un proceso de transformación digital. Como parte de este proceso, han implementado el área de innovación para liderar la migración de las principales transacciones financieras, a una plataforma digital.
+
+## OBJETIVO
+
+Enfocados en los millennials proponemos una aplicación móvil enfocada en la omnicanalidad. Que nuestros usuarios tengan total libertad al realizar sus operaciones de manera rápida y sencilla con la misma seguridad que tienen al acercarse a una  ventanilla.
 
 ![image](https://user-images.githubusercontent.com/32310691/37179903-49856ed4-22f5-11e8-93e5-2b170669b14d.png)
 
-## Objetivo
 
-Enfocados en los millennials (research que se hizo en el reto anterior [Más información](https://drive.google.com/drive/u/0/folders/1LhpwvYvWbBKHB5H4FrhHwIl3lJ4R8IYY)) proponemos una plataforma enfocada en la omnicanalidad. Que nuestros usuarios tengan total libertad al realizar sus transacciones con la misma seguridad que tienen al acercarse a ventanilla.
 
-## Proceso
+## RESEARCH 
+
+### Banco digital para millenials
+ 
+   La transformación digital ha dejado de ser una opción para pasar a ser una necesidad real. Es por ese motivo que el Banco del País      se han propuesto crear un banco 100% digital dirigido para millenials.
+ 
+   Los millennials también conocida como generación Y, son las personas nacidas entre los años 1980 y 2000. Son los que conocieron de      primera mano todo lo concerniente a la evolución tecnológica de fines del siglo XX.
+ 
+   “Todos los millennials son diferentes de acuerdo con su país de origen”, pero la globalización ha hecho que sean más similares entre    sí, en comparación a las generaciones pasadas.
+ 
+#### Características de los Millennials
+ 
+* La tecnología, es una herramienta natural para estos jóvenes en su día a día, el internet, el dispositivo móvil, los medios sociales son su forma de vida.
+
+* Son personas que se adaptan fácil y rápidamente a los cambios.
+
+* Tienen al Internet como herramienta primordial para diversas actividades cotidianas como comprar, socializar o ver televisión.
+
+* Se declaran independientes y forman el grupo con mayor descontento político y religioso.
+ 
+#### Las instituciones financieras y los millennials
+ 
+Estas buscan nuevas estrategias e invierten en grande para fidelizar a esta generación de clientes, desinformados respecto de temas financieros y familiarizados con la tecnología.
+ 
+El 40% de los millennials nunca ha pisado una sucursal bancaria y que la mayoría no está familiarizado con las funciones que cumplen las instituciones financieras, pues muchos ven ajenos conceptos como tasas, intereses y créditos. Incluso, el mismo estudio destaca que el 53% no piensa que su banco sea diferente al de los demás, por lo que uno de cada tres estaría dispuesto a cambiar de entidad fácilmente.
+ 
+Es por eso por lo que la principal vía de comunicación entre estas instituciones y sus clientes son las páginas web y las aplicaciones que han desarrollado los bancos para smartphones, donde una buena o mala aplicación móvil puede sellar la imagen de la empresa frente a sus clientes más jóvenes. 
+ 
+#### Objetivo del Banco del País
+ 
+* Los Millennials puedan acceder a cualquier servicio del banco a través del Internet desde el computador o cualquier aparato móvil.
+Banco 100% digital.
+* Establecer alianzas en la red más grande de supermercados.
+* Uso ilimitado de agentes y ATM’s.
+ 
+#### STAKEHOLDERS
+
+Stakeholders interno: stakeholder que forma parte directa de la organización.
+ 
+* CEO
+* Gerente de marketing
+* Gerente de IT
+* Gerente de agencias
+* Jefe de innovación
+* Comunity manager
+* Regulador estatal
+* Front-end
+ 
+Stakeholders externo: stakeholder que no forman parte directa de la organización.
+ 
+* Millennials
+ 
+#### REUNIÓN KICK OFF
+ 
+El objetivo de esta primera reunión es conocer a los principales stakeholders y saber quiénes son los que tomarán las decisiones en el transcurso del proyecto. Es importante alinear los esfuerzos y trabajar de manera conjunta así como planificar la medición y el progreso de cada área.
+
+#### BUSINESS MODEL CANVAS
+
 
 **Encuestas on-line**
 
