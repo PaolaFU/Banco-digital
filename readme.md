@@ -20,7 +20,7 @@ Enfocados en los millennials proponemos una aplicación móvil enfocada en la om
  
    “Todos los millennials son diferentes de acuerdo con su país de origen”, pero la globalización ha hecho que sean más similares entre    sí, en comparación a las generaciones pasadas.
  
-#### Características de los Millennials
+### Características de los Millennials
  
 * La tecnología, es una herramienta natural para estos jóvenes en su día a día, el internet, el dispositivo móvil, los medios sociales son su forma de vida.
 
@@ -30,7 +30,7 @@ Enfocados en los millennials proponemos una aplicación móvil enfocada en la om
 
 * Se declaran independientes y forman el grupo con mayor descontento político y religioso.
  
-#### Las instituciones financieras y los millennials
+### Las instituciones financieras y los millennials
  
 Estas buscan nuevas estrategias e invierten en grande para fidelizar a esta generación de clientes, desinformados respecto de temas financieros y familiarizados con la tecnología.
  
@@ -38,14 +38,16 @@ El 40% de los millennials nunca ha pisado una sucursal bancaria y que la mayorí
  
 Es por eso por lo que la principal vía de comunicación entre estas instituciones y sus clientes son las páginas web y las aplicaciones que han desarrollado los bancos para smartphones, donde una buena o mala aplicación móvil puede sellar la imagen de la empresa frente a sus clientes más jóvenes. 
  
-#### Objetivo del Banco del País
+### Objetivo del Banco del País
  
 * Los Millennials puedan acceder a cualquier servicio del banco a través del Internet desde el computador o cualquier aparato móvil.
 Banco 100% digital.
+
 * Establecer alianzas en la red más grande de supermercados.
+
 * Uso ilimitado de agentes y ATM’s.
  
-#### STAKEHOLDERS
+### STAKEHOLDERS
 
 Stakeholders interno: stakeholder que forma parte directa de la organización.
  
@@ -62,47 +64,62 @@ Stakeholders externo: stakeholder que no forman parte directa de la organizació
  
 * Millennials
  
-#### REUNIÓN KICK OFF
+### REUNIÓN KICK OFF
  
 El objetivo de esta primera reunión es conocer a los principales stakeholders y saber quiénes son los que tomarán las decisiones en el transcurso del proyecto. Es importante alinear los esfuerzos y trabajar de manera conjunta así como planificar la medición y el progreso de cada área.
 
-#### BUSINESS MODEL CANVAS
+![](assets/img/preguntas.jpg)
 
+### BUSINESS MODEL CANVAS
 
-**Encuestas on-line**
+![](assets/img/canvas.jpg)
 
-En el proceso de encuestas detectamos que la gran problemática venía en la _inseguridad_ y el
-_desconocimiento_ por parte de los usuarios.
+## RECOPILACIÓN Y ANÁLISIS DE DATOS
 
-![](assets/img/encuesta-1.png)
+### Encuestas on-line**
 
-Por otro lado también pudimos identificar cuáles eran las principales transacciones que los millennials hacían en la web y/o app del banco.
+**Conclusiones**
 
-![](assets/img/encuesta-2.png)
+* La gran problemática venía  por las colas que tienen que hacer al estar en una agencia bancaria y casi el 50% de encuestados le        molesta el tiempo de espera.
 
-**Entrevistas**
+* Se identifico las principales transacciones que los millennials hacían en la web y/o app del banco: _Transferencias, retiros y pago de   servicios_.
+
+* Casi el 60% de personas encuestadas usan una aplicación móvil o una página web.
+
+![](assets/img/encuestas.jpg)
+
+![](assets/img/encuestas1.jpg)
+
+**Afinnity Map**
+
+![](assets/img/affinity-map.jpg)
+
+### Entrevistas
 
 Entrevista realizada  a 3 personas que laboran en  diferentes bancos del Perú.
 
 BCP 
 
-. ¿Cuáles son las quejas más recurrentes en la agencia?
+* ¿Cuáles son las quejas más recurrentes en la agencia?
 
-Quejas: cobros indebidos, errores.en operaciones, extornos.por pagos dobles
+   - cobros indebidos
+   - errores en operaciones, extornos por pagos dobles
 
-. ¿Que transacciones crees que podrían migrarse a una aplicación móvil y dejar de atenderse en ventanilla?
+* ¿Que transacciones crees que podrían migrarse a una aplicación móvil y dejar de atenderse en ventanilla?
 
-Migraciones : pagos de servicios (impuestos, y servicios varios) , operaciones de tipo de cambio
+   - Pagos de servicios (impuestos, y servicios varios) 
+   - Operaciones de tipo de cambio.
 
-En qué crees que podrían mejorar los servicios o la atención que  brinda el banco? 
+* En qué crees que podrían mejorar los servicios o la atención que  brinda el banco? 
 
-Podría mejorar.en procesos, simplificando procesos, mejoras los tiempos de respuesta de diversos trámites
+    - Podría mejorar en procesos: Simplificando procesos 
+    - Mejorar los tiempos de respuesta de diversos trámites
 
-La aplicación móvil que tiene el banco es óptima, explicanos (si/no)¿porqué?
+* La aplicación móvil que tiene el banco es óptima, explicanos (si/no)¿porqué?
 
-La aplicación del banco si es óptima, ya que todos los pagos son en línea y rápidos salvo algunos pagos que tienen restricción de hora, estos son fijados por la.empresa recaudadora
+La aplicación del banco si es óptima, ya que todos los pagos son en línea y rápidos salvo algunos pagos que tienen restricción de     hora, estos son fijados por la.empresa recaudadora
 
-La edad promedio que usa la aplicación móvil:
+* La edad promedio que usa la aplicación móvil:
 
 No estoy seguro, pero  por lo general lo usan personas de nuestra edad, aunque se podría  instruir a personas de más edad  usen Yape 
 
@@ -110,23 +127,23 @@ No estoy seguro, pero  por lo general lo usan personas de nuestra edad, aunque s
 BANCO DE LA NACION
 
 
-. ¿Cuáles son las quejas más recurrentes en la agencia?
+* ¿Cuáles son las quejas más recurrentes en la agencia?
 
 Quejas hay muchas, pero las que saltan a simple vista así no seas cliente asiduo  al banco, son  las colas es con algo que se sigue peleando  día a día, hemos agilizado los trámites en ventanilla  pero aún así no  disminuimos el tiempo de espera.
 
-. ¿Que transacciones crees que podrían migrarse a una aplicación móvil y dejar de atenderse en ventanilla?
+* ¿Que transacciones crees que podrían migrarse a una aplicación móvil y dejar de atenderse en ventanilla?
 
 Los pagos de tributos y detracciones, a mi parecer eso  lo podrían debitar automáticamente de sus tarjetas no es necesario hacer una cola de casi una hora para hacer ese pago 
 
-En qué crees que podrían mejorar los servicios o la atención que  brinda el banco? 
+* En qué crees que podrían mejorar los servicios o la atención que  brinda el banco? 
 
 A veces es estresante el trabajo en ventanilla, y atender a tantas personas en 5 horas  es abrumante mejoraría mantener  motivando al trabajador y clases de coaching para q brinde una mejor atención
 
-La aplicación móvil que tiene el banco es óptima, explicanos (si/no)¿porqué?
+* La aplicación móvil que tiene el banco es óptima, explicanos (si/no)¿porqué?
 
 Si es óptima pero debe de enseñar a los cliente a utilizarlos porque no es intuitiva
 
-La edad promedio que usa la aplicación móvil 
+* La edad promedio que usa la aplicación móvil 
 
 Mas son jóvenes porque ellos quieren todo rápido y simplificado, son los más renegones al tener que esperar  en una cola de banco.
 
@@ -134,59 +151,57 @@ Mas son jóvenes porque ellos quieren todo rápido y simplificado, son los más 
 
 SCOTIABANK
 
-. ¿Cuáles son las quejas más recurrentes en la agencia?
+* ¿Cuáles son las quejas más recurrentes en la agencia?
 
--Falta de rapidez (pese a que están operativos las recontadoras de billetes y monedas),
+   - Falta de rapidez (pese a que están operativos las recontadoras de billetes y monedas),
 
--Falta de ventanillas (se tiene 5 módulos y sólo atienden 3 por el staff establecido)
+   - Falta de ventanillas (se tiene 5 módulos y sólo atienden 3 por el staff establecido)
 
--Falta de personal en horarios de refrigerio / alta afluencia (lastimosamente los horarios de refrigerio coinciden con las de las instituciones cuyos trabajadores vienen a cobrar al banco o a sacar / reponer sus tarjetas)
+   - Falta de personal en horarios de refrigerio / alta afluencia (lastimosamente los horarios de refrigerio coinciden con las de las instituciones cuyos trabajadores vienen a cobrar al banco o a sacar / reponer sus tarjetas)
 
--Falta de Agentes cercanos a la Agencia (para derivar y desahogar las colas)
+   - Falta de Agentes cercanos a la Agencia (para derivar y desahogar las colas)
 
--Falta de conocimiento por parte del personal de los productos y servicios, así como de los canales electrónicos (internet, ATMs, etc)
+   - Falta de conocimiento por parte del personal de los productos y servicios, así como de los canales electrónicos (internet, ATMs, etc)
 
--Falta de amabilidad, cortesía, (Bienvenida, Sonrisa, Dilculpa, lentitud del sistema)
+   - Falta de amabilidad, cortesía, (Bienvenida, Sonrisa, Dilculpa, lentitud del sistema)
 
--Falta de bancas de atención con módulo de servimatic (TV, ticket de espera)
+   - Falta de bancas de atención con módulo de servimatic (TV, ticket de espera)
 
--Falta de priorización de colas (segmentación de clientes A,B, C, BEx, Premiun, etc)
+   - Falta de priorización de colas (segmentación de clientes A,B, C, BEx, Premiun, etc)
 
--Falta de una persona que atienda en el hall y derive las operaciones a los canales electrónicos, internet, ATMs, etc
-
-
-
-. ¿Que transacciones crees que podrían migrarse a una aplicación móvil y dejar de atenderse en ventanilla?
-
-Considerar los parámetros que establece la SBS para lavado de activos
-
--Depósitos a ATMs en soles y dólares
-
--Solicitud / Reclamos de estados de cuenta vigentes e históricos a través de las plataformas virtuales,
-
--Emisión de chequeras se realizan en ventanilla
-
--Solicitud / autorización de ampliación de montos de las transacciones en internet deben de realizarse personalmente,
-
--Actualización de datos,
-
-En qué crees que podrían mejorar los servicios o la atención que  brinda el banco? 
-
--En cada Agencia, tener un back up tanto de PC como de recontadoras, para que cuando se malogre alguna no se vea afectada la atención
-
--Establecer un plan de contingencia de atención en caso se caiga la línea / sistemas (lo tiene el BCP) y no se afecte la atención al público,
-
-La aplicación móvil que tiene el banco es óptima, explicanos (si/no)¿porqué?
-
--SI, por la rapidez y no pide clave token para transacciones recurrentes y propias, pero el consumo de la memoria de la app es demasiada
-
-
-La edad promedio que usa la aplicación móvil
-
-- Los personas jovenes menores de 35 años, que son los que paran pegados al celular.
+   - Falta de una persona que atienda en el hall y derive las operaciones a los canales electrónicos, internet, ATMs, etc
 
 
 
-**Afinnity Map**
+* ¿Que transacciones crees que podrían migrarse a una aplicación móvil y dejar de atenderse en ventanilla?
 
-![](assets/img/affinity-map.jpg)
+   Considerar los parámetros que establece la SBS para lavado de activos
+
+   - Depósitos a ATMs en soles y dólares
+
+   - Solicitud / Reclamos de estados de cuenta vigentes e históricos a través de las plataformas virtuales,
+
+   - Emisión de chequeras se realizan en ventanilla
+
+   - Solicitud / autorización de ampliación de montos de las transacciones en internet deben de realizarse personalmente,
+
+   - Actualización de datos
+
+* En qué crees que podrían mejorar los servicios o la atención que  brinda el banco? 
+
+    - En cada Agencia, tener un back up tanto de PC como de recontadoras, para que cuando se malogre alguna no se vea afectada la atención
+
+    - Establecer un plan de contingencia de atención en caso se caiga la línea / sistemas (lo tiene el BCP) y no se afecte la atención al público,
+
+* La aplicación móvil que tiene el banco es óptima, explicanos (si/no)¿porqué?
+
+    - Si, por la rapidez y no pide clave token para transacciones recurrentes y propias, pero el consumo de la memoria de la app es demasiada.
+
+
+* La edad promedio que usa la aplicación móvil
+
+    - Los personas jovenes menores de 35 años, que son los que paran pegados al celular.
+
+
+
+
