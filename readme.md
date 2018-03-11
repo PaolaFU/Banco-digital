@@ -90,13 +90,21 @@ El objetivo de esta primera reunión es conocer a los principales stakeholders y
 
 ![](assets/img/encuestas1.jpg)
 
-**Afinnity Map de encuestas on-line**
-
-![](assets/img/affinity-map.jpg)
-
-### Entrevistas
+### Entrevistas a expertos
 
 Entrevista realizada  a 3 personas que laboran en  diferentes bancos del Perú.
+
+**Conclusiones**
+
+
+* Falta de rapidez al momento de atender a los clientes en el banco, lo que genera mayores colas.
+
+* Se debe de enseñar al cliente que pueden usar el aplicativo móvil del banco para pago de servicios, pagó de impuesto y otros trámites.
+
+* Hay operaciones bancarias que pueden  ser debitadas  automáticamente desde una tarjeta con el uso de una aplicación web.
+
+* Una aplicación móvil debe ser fácil de usar e intuitiva.
+
 
 **BCP**
 
@@ -117,7 +125,7 @@ Entrevista realizada  a 3 personas que laboran en  diferentes bancos del Perú.
 
 * La aplicación móvil que tiene el banco es óptima, explicanos (si/no)¿porqué?
 
-    - La aplicación del banco si es óptima, ya que todos los pagos son en línea y rápidos salvo algunos pagos que tienen restricción de     hora, estos son fijados por la.empresa recaudadora
+    - La aplicación del banco si es óptima, ya que todos los pagos son en línea y rápidos salvo algunos pagos que tienen restricción de     hora, estos son fijados por la empresa recaudadora.
 
 * La edad promedio que usa la aplicación móvil:
 
@@ -201,6 +209,12 @@ Entrevista realizada  a 3 personas que laboran en  diferentes bancos del Perú.
 * La edad promedio que usa la aplicación móvil
 
     - Los personas jovenes menores de 35 años, que son los que paran pegados al celular.
+
+## Síntesis y definición
+
+**Afinnity Map**
+
+![](assets/img/affinity-map.jpg)
 
 
 
