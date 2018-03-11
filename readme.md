@@ -14,7 +14,7 @@ Enfocados en los millennials proponemos una aplicación móvil enfocada en la om
 
 ### Banco digital para millenials
  
-   La transformación digital ha dejado de ser una opción para pasar a ser una necesidad real. Es por ese motivo que el Banco del País      se han propuesto crear un banco 100% digital dirigido para millenials.
+   La transformación digital ha dejado de ser una opción para pasar a ser una necesidad real. Es por ese motivo que el Banco del País se han propuesto crear un banco 100% digital dirigido para millenials.
  
    Los millennials también conocida como generación Y, son las personas nacidas entre los años 1980 y 2000. Son los que conocieron de      primera mano todo lo concerniente a la evolución tecnológica de fines del siglo XX.
  
