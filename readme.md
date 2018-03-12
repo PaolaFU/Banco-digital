@@ -76,6 +76,12 @@ El objetivo de esta primera reunión es conocer a los principales stakeholders y
 
 ![](assets/img/canvas.jpg)
 
+## Organización de la investigación en Trello
+
+![](assets/img/trello.jpg)
+
+Para mayor información de la organización revisar Trello: https://trello.com/b/aEIfjlCk/banco-del-pa%C3%ADs
+
 ## RECOPILACIÓN Y ANÁLISIS DE DATOS
 
 ### Encuestas on-line
@@ -263,7 +269,12 @@ Centrados en hacer un banco digital y en conocer a fondo a sus usuarios SelfBank
 * Largas colas
 * Tiempo de espera
 
+
 ## Ideación
+
+### User flow
+![](assets/img/userflow.jpg)
+
 
 ### Prototipo en papel
 
@@ -275,6 +286,13 @@ Centrados en hacer un banco digital y en conocer a fondo a sus usuarios SelfBank
 * Segundo flujo de pago de servicios-agua
 
 ![](assets/prototipopapelflujo2.jpg)
+
+### Prototipo en Marvel a blanco y negro
+
+Se hizo un prototipo en escala de grises para ver que colores eran los indicados, y que los usarios nos den su opinión
+
+https://marvelapp.com/14a1i2j6
+
 
 ## Testing
 
@@ -302,3 +320,8 @@ Se realizó el testeo con 5 usuarios millennials.
 * En la página de inicio hubiese querido encontrar alguna frase.
 * No entendió bien porque tenia que poner su correo electrónico al hacer la transferencia interbancaria.
 * Quiere que tenga mas operaciones para realizar.
+
+## Equipo de trabajo
+
+* Paola Flores 
+* Yoanna Hernandez
