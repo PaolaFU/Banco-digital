@@ -2,15 +2,17 @@
 
 El banco del país actualmente se encuentra por un proceso de transformación digital. Como parte de este proceso, han implementado el área de innovación para liderar la migración de las principales transacciones financieras, a una plataforma digital.
 
-## OBJETIVO
+## Idea de Negocio
 
 Enfocados en los millennials proponemos una aplicación móvil enfocada en la omnicanalidad. Que nuestros usuarios tengan total libertad al realizar sus operaciones de manera rápida y sencilla con la misma seguridad que tienen al acercarse a una  ventanilla.
+
 
 ![image](https://user-images.githubusercontent.com/32310691/37179903-49856ed4-22f5-11e8-93e5-2b170669b14d.png)
 
 
 
-## RESEARCH 
+
+## Research
 
 ### Banco digital para millenials
  
@@ -38,7 +40,7 @@ El 40% de los millennials nunca ha pisado una sucursal bancaria y que la mayorí
  
 Es por eso por lo que la principal vía de comunicación entre estas instituciones y sus clientes son las páginas web y las aplicaciones que han desarrollado los bancos para smartphones, donde una buena o mala aplicación móvil puede sellar la imagen de la empresa frente a sus clientes más jóvenes. 
  
-### Objetivo del Banco del País
+## Objetivo del Banco del País
  
 * Los Millennials puedan acceder a cualquier servicio del banco a través del Internet desde el computador o cualquier aparato móvil.
 Banco 100% digital.
@@ -47,7 +49,7 @@ Banco 100% digital.
 
 * Uso ilimitado de agentes y ATM’s.
  
-### STAKEHOLDERS
+## STAKEHOLDERS
 
 Stakeholders interno: stakeholder que forma parte directa de la organización.
  
@@ -64,13 +66,13 @@ Stakeholders externo: stakeholder que no forman parte directa de la organizació
  
 * Millennials
  
-### REUNIÓN KICK OFF
+## REUNIÓN KICK OFF
  
 El objetivo de esta primera reunión es conocer a los principales stakeholders y saber quiénes son los que tomarán las decisiones en el transcurso del proyecto. Es importante alinear los esfuerzos y trabajar de manera conjunta así como planificar la medición y el progreso de cada área.
 
 ![](assets/img/preguntas.jpg)
 
-### BUSINESS MODEL CANVAS
+## BUSINESS MODEL CANVAS
 
 ![](assets/img/canvas.jpg)
 
@@ -90,13 +92,21 @@ El objetivo de esta primera reunión es conocer a los principales stakeholders y
 
 ![](assets/img/encuestas1.jpg)
 
-**Afinnity Map de encuestas on-line**
-
-![](assets/img/affinity-map.jpg)
-
-### Entrevistas
+### Entrevistas a expertos
 
 Entrevista realizada  a 3 personas que laboran en  diferentes bancos del Perú.
+
+**Conclusiones**
+
+
+* Falta de rapidez al momento de atender a los clientes en el banco, lo que genera mayores colas.
+
+* Se debe de enseñar al cliente que pueden usar el aplicativo móvil del banco para pago de servicios, pagó de impuesto y otros trámites.
+
+* Hay operaciones bancarias que pueden  ser debitadas  automáticamente desde una tarjeta con el uso de una aplicación web.
+
+* Una aplicación móvil debe ser fácil de usar e intuitiva.
+
 
 **BCP**
 
@@ -117,7 +127,7 @@ Entrevista realizada  a 3 personas que laboran en  diferentes bancos del Perú.
 
 * La aplicación móvil que tiene el banco es óptima, explicanos (si/no)¿porqué?
 
-    - La aplicación del banco si es óptima, ya que todos los pagos son en línea y rápidos salvo algunos pagos que tienen restricción de     hora, estos son fijados por la.empresa recaudadora
+    - La aplicación del banco si es óptima, ya que todos los pagos son en línea y rápidos salvo algunos pagos que tienen restricción de     hora, estos son fijados por la empresa recaudadora.
 
 * La edad promedio que usa la aplicación móvil:
 
@@ -202,6 +212,93 @@ Entrevista realizada  a 3 personas que laboran en  diferentes bancos del Perú.
 
     - Los personas jovenes menores de 35 años, que son los que paran pegados al celular.
 
+## Benchmarks
+
+**[Simple](https://www.simple.com/)**
+
+En su Banca Móvil prioriza la comodidad a sus clientes. Entre las transacciones que ofrece son:
+* Tarjeta de débito Visa
+* Depósito de cheques
+* Enlace de cuenta externa
+* Transferencias instantáneas
+* Servicios de pago de terceros
+* Bloqueo de tarjeta
+
+**[SelfBank](https://www.selfbank.es/)**
+
+El banco digital para los que entienden el mundo de manera digital.
+Centrados en hacer un banco digital y en conocer a fondo a sus usuarios SelfBank ofrece una plataforma que erradica la burocracia y el papeleo, entre sus principales atractivos tiene:
+
+* Planes de pensión
+* Invertir en fondos de inversión
+* Abrir cuentas
+
+## Síntesis y definición
+
+**Afinnity Map**
+
+![](assets/img/affinity-map.jpg)
+
+### User persona
+
+![](assets/img/user-persona.png)
+
+## Problem Statements
+
+* **David necesita**  poder pagar los recibos de los diferentes servicios que tiene de manera rápida para no perder tiempo haciendo largas colas.
+
+* **David necesita** hacer transferencia  de su cuenta bancaria a otras sin tener que pagar altas comisiones.
+
+* **David necesita** poder pagar sus servicios públicos  con las diferentes tarjetas bancarias que tiene.
+
+* **David necesita** disponer de  una aplicación móvil que tenga la  opción de tener diferentes tarjetas bancarias  para realizar todo tipo de pagos.
+
+* **David necesita** revisar sus operaciones bancarias por el celular, para mantenerse informado en tiempo real.
+
+### Customer Journey Map - PROCESOS CRÍTICOS
+
+* Transferencia
+* Trámites largos
+* Cobros excesivos
+* Largas colas
+* Tiempo de espera
+
+## Ideación
+
+### Prototipo en papel
+
+ * Primer flujo de transferencia bancaria 
+ 
+![](assets/img/prototipopapel.jpeg)
+![](assets/img/prototipopapel2.jpeg)
+
+* Segundo flujo de pago de servicios-agua
+
+![](assets/prototipopapelflujo2.jpg)
+
+## Testing
+
+* Prototipo en papel
+
+![](assets/img/testing1.jpeg)
 
 
+* Prototipo en escala de grises
 
+![](assets/img/testing2.jpeg)
+
+## Conclusiones
+
+Se realizó el testeo con 5 usuarios millennials.
+
+### Positivas
+
+* Le agradan los colores que tienen la aplicación.
+* Fácil de aprender a usarla.
+* El uso de huella digital le gusto.
+
+### Puntos por mejorar
+
+* En la página de inicio hubiese querido encontrar alguna frase.
+* No entendió bien porque tenia que poner su correo electrónico al hacer la transferencia interbancaria.
+* Quiere que tenga mas operaciones para realizar.
